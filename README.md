@@ -1,0 +1,1 @@
+# projeto-qrcode-and-password
