@@ -27,22 +27,6 @@ Projeto desenvolvido para praticar conceitos de **JavaScript, Node.js, modulariz
 
 ---
 
-## 📦 Instalação dos módulos
-
-Após clonar o projeto, instale as dependências utilizadas pela aplicação através do script:
-
-```bash
-npm run modules
-```
-
-Esse comando instala automaticamente os módulos necessários, que estão definidos no package.json:
-
-* `prompt` — interação com o usuário pelo terminal
-* `chalk` — estilização das mensagens no terminal
-* `qrcode-terminal` — geração de QR Codes no terminal
-
----
-
 ## 💻 Como funciona
 
 Ao iniciar a aplicação, escolha uma das opções disponíveis:
